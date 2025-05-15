@@ -65,8 +65,5 @@ class Program
                     break;
             }
         }
-
-        // ❇️ Creativity: Example enhancement below
-        // You could add editing or deleting entries later as a bonus feature
     }
 }
