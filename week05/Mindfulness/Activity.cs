@@ -25,7 +25,6 @@ namespace MindfulnessProgram
             Console.WriteLine(_description);
             Console.WriteLine();
             
-            // Input validation for duration
             while (true)
             {
                 Console.Write("How long, in seconds, would you like for your session? ");
