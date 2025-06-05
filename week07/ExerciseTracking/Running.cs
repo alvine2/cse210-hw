@@ -24,4 +24,4 @@ public class Running : Activity
     {
         return LengthInMinutes / _distance;
     }
-}
+} /// by alvine kinyera // This class represents a running activity, inheriting from the Activity class.
